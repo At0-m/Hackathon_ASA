@@ -1,0 +1,9 @@
+.env
+.env.local
+backend/data
+backend/tmp
+frontend/node_modules
+frontend/.svelte-kit
+frontend/build
+services/cpp-analyzer/build
+.DS_Store
