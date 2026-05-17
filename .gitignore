@@ -7,3 +7,4 @@ frontend/.svelte-kit
 frontend/build
 services/cpp-analyzer/build
 .DS_Store
+frontend/.vscode
